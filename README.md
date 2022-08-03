@@ -7,6 +7,6 @@ Experience:
 - :brain: 3+ years as a Data Scientist
 
 How to contact me:
-- :seedling: [Fiverr](fiverr.com/lucmoseley)
+- :seedling: [Fiverr](https://fiverr.com/lucmoseley)
 - :incoming_envelope: [Email](luc.moseley100@gmail.com)
-- :necktie: [LinkedIn](linkedin.com/in/luc-moseley-42b543146/)
+- :necktie: [LinkedIn](https://linkedin.com/in/luc-moseley-42b543146/)
