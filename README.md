@@ -7,10 +7,6 @@ Experience:
 - :brain: 3+ years as a Data Scientist
 
 How to contact me:
-- :seedling: [ Fiverr](fiverr.com/lucmoseley)
-- :incoming_envelope: [ Email](luc.moseley100@gmail.com)
-
-<!---
-lucmoseley/lucmoseley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :seedling: [Fiverr](fiverr.com/lucmoseley)
+- :incoming_envelope: [Email](luc.moseley100@gmail.com)
+- :necktie: [LinkedIn](linkedin.com/in/luc-moseley-42b543146/)
