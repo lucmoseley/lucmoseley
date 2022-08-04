@@ -8,5 +8,5 @@ Experience:
 
 How to contact me:
 - :seedling: [Fiverr](https://fiverr.com/lucmoseley)
-- :incoming_envelope: [Email](luc.moseley100@gmail.com)
+- :incoming_envelope: [Email](mailto:luc.moseley100@gmail.com)
 - :necktie: [LinkedIn](https://linkedin.com/in/luc-moseley-42b543146/)
